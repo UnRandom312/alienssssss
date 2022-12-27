@@ -1,0 +1,26 @@
+body{
+    font-size: 25px;
+    background-color: rgb(197, 228, 172);
+    font-family: 'Akaya Telivigala';
+    font-weight: 600;
+}
+#titulo{
+    background-color: rgb(150, 184, 228);
+    width: 500px;
+    border-radius: 10px;
+    font-size: 25px;
+}
+#identificar
+{
+    width: 10%;
+    background-color: rgb(78, 6, 54);
+    color:white;
+    border-style: groove;
+    border-radius: 20px;
+}
+
+#sonido, #precision{
+background-color: aliceblue;
+width: 500px;
+padding: 20px;
+}
